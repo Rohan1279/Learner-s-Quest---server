@@ -32,3 +32,4 @@ app.get("/courses/:category_id", (req, res) => {
 });
 
 app.listen(port, () => console.log("Dragon News Server on port", port));
+
