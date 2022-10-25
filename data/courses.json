@@ -1,33 +1,57 @@
 [
-    {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-        "category": "Men's Sneaker",
-        "category_id": "1",
-        "name": "ULTRABOOST 22 SHOES",
-        "seller": "Addidas",
-        "price": 420,
-        "stock": 20,
-        "ratings": 4,
-        "ratingsCount": 3725,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-        "shipping": 1,
-        "quantity": 0
-      },
-    {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-        "category": "Men's Sneaker",
-        "category_id": "1",
-        "name": "ULTRABOOST 22 SHOES",
-        "seller": "Addidas",
-        "price": 420,
-        "stock": 20,
-        "ratings": 4,
-        "ratingsCount": 3725,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-        "shipping": 1,
-        "quantity": 0
-      }
-
-
-
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "category": "Algorithm",
+    "category_id": "1",
+    "name": "JavaScript Algorithms and Data Structures",
+    "price": 99,
+    "ratings": 4,
+    "reviewsCount": 3725,
+    "img": "https://repository-images.githubusercontent.com/126577260/3c924980-61ac-11e9-8e4e-6e50e0cec366",
+    "video": "https://www.pexels.com/video/person-writing-on-the-notebook-while-on-the-bed-5147975/"
+  },
+  {
+    "id": "324e13b9-2d34-4b2f-a74d-a77b352d6ead",
+    "category": "Web development",
+    "category_id": "2",
+    "name": "The Web Developer Bootcamp 2021",
+    "price": 99,
+    "ratings": 4,
+    "reviewsCount": 3725,
+    "img": "https://www.filepicker.io/api/file/FSIjaoI2QtKWZL65cogd",
+    "video": "https://www.pexels.com/video/person-writing-on-the-notebook-while-on-the-bed-5147975/"
+  },
+  {
+    "id": "asd13b9-4d34-432c-a74d-a77b352d64ad",
+    "category": "React",
+    "category_id": "4",
+    "name": "React - The Complete Guide (incl Hooks, React Router, Redux) [August 2022]",
+    "price": 99,
+    "ratings": 4,
+    "reviewsCount": 3725,
+    "img": "https://miro.medium.com/max/720/1*vJgCHEOEJrAn_pU7hVhkKQ.jpeg",
+    "video": "https://www.pexels.com/video/person-writing-on-the-notebook-while-on-the-bed-5147975/"
+  },
+  {
+    "id": "47su43b9-4d34-4b2f-a74d-a77b352d64ad",
+    "category": "CSS",
+    "category_id": "5",
+    "name": "Next Level CSS Creative Hover & Animation Effects",
+    "price": 99,
+    "ratings": 4,
+    "reviewsCount": 3725,
+    "img": "https://i.ytimg.com/vi/HouOqcCCNbw/maxresdefault.jpg",
+    "video": "https://www.pexels.com/video/person-writing-on-the-notebook-while-on-the-bed-5147975/"
+  },
+  {
+    "id": "j7su43b9-4d34-4b2f-7f44-a77b352d64ad",
+    "category": "Data Structures",
+    "category_id": "6",
+    "name": "Data Structures & Algorithms using C and C++",
+    "price": 99,
+    "ratings": 4,
+    "reviewsCount": 3725,
+    "img": "https://i.ytimg.com/vi/B31LgI4Y4DQ/maxresdefault.jpg",
+    "video": "https://www.pexels.com/video/person-writing-on-the-notebook-while-on-the-bed-5147975/"
+  }
 ]
