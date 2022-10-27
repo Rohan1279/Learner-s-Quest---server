@@ -1,26 +1,38 @@
 [
   {
-    "id": "01",
-    "name": "Algorithm"
+    "id": "1",
+    "category_name": "Algorithm",
+    "img": "https://i.ytimg.com/vi/8hly31xKli0/maxresdefault.jpg",
+    "description": "Learn computer algorithm and create porjects to make your dreams come true."
   },
   {
-    "id": "02",
-    "name": "Web development"
+    "id": "2",
+    "category_name": "Web development",
+    "img": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+    "description": "Learn web development and create porjects to make your dreams come true."
   },
   {
-    "id": "03",
-    "name": "Java"
+    "id": "3",
+    "category_name": "Java",
+    "img": "https://hackr.io/blog/best-java-courses/thumbnail/large",
+    "description": "Learn Java language and create porjects to make your dream come true."
   },
   {
-    "id": "04",
-    "name": "React"
+    "id": "4",
+    "category_name": "React",
+    "img": "https://www.howtocrazy.com/wp-content/uploads/2022/05/Java-Programming-Efficiently-.jpg",
+    "description": "Learn React, a javascript framework, and create porjects to make your dream come true."
   },
   {
-    "id": "05",
-    "name": "CSS"
+    "id": "5",
+    "category_name": "CSS",
+    "img": "https://miro.medium.com/max/1400/0*0Jt6AoXxmN0n0qhN",
+    "description": "Learn css stylings and create porjects to make your dream come true."
   },
   {
-    "id": "06",
-    "name": "Data Structures"
+    "id": "6",
+    "category_name": "Data Structures",
+    "img": "https://www.passionateinmarketing.com/wp-content/uploads/2021/10/maxresdefault-199-696x392.jpg",
+    "description": "Learn data structures and create porjects to make your dream come true."
   }
 ]
